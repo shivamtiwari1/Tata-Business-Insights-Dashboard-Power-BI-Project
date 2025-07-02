@@ -1,8 +1,8 @@
 📊 **Tata Business Insights Dashboard | Power BI Project**  
 Unlocking Business Insights Through Data Visualization  
-Power BI  
-Status  
-Certification  
+[Power BI](https://img.shields.io/badge/Built%20With-Power%20BI-yellow?style=flat-square)  
+[Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)  
+[Certification](https://drive.google.com/file/d/1rArWgvTwcW9UlAWIMBuj36gHthhVzPO_/view?usp=sharing)  
 
 
 🚀 Project Overview  
@@ -59,4 +59,4 @@ Successfully completed the "Data Visualisation: Empowering Business with Effecti
 | Excel | Initial data wrangling |   
 
 📣 Let's Connect  
-If you're interested in data storytelling or building intelligent dashboards, feel free to connect with me on LinkedIn or check out more of my work on this GitHub profile! add the content of this certificate in this artical  
+If you're interested in data storytelling or building intelligent dashboards, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-tiwari-4239a621b/) or check out more of my work on this GitHub profile! add the content of this certificate in this artical  
