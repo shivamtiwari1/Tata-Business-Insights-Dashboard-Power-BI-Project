@@ -1,8 +1,9 @@
-📊 Tata Business Insights Dashboard | Power BI Project
+📊 **Tata Business Insights Dashboard | Power BI Project**
 Unlocking Business Insights Through Data Visualization
 Power BI
 Status
 Certification
+
 
 🚀 Project Overview
 This Power BI project leverages 541,000+ rows of sales and customer data to create meaningful, interactive visualizations for Tata. The objective was to empower business stakeholders with intuitive insights that support smarter, data-driven decisions.
