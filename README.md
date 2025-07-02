@@ -58,5 +58,8 @@ Successfully completed the "Data Visualisation: Empowering Business with Effecti
 | DAX | Calculated columns and measures |  
 | Excel | Initial data wrangling |   
 
+Projects Demonstration Links  
+** Screenshots: https://drive.google.com/drive/folders/18no2JgtFhbMRbYVAfzS3O2gq49MGSKQl?usp=sharing  
+
 📣 Let's Connect  
 If you're interested in data storytelling or building intelligent dashboards, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-tiwari-4239a621b/) or check out more of my work on this [GitHub](https://github.com/shivamtiwari1/Tata-Business-Insights-Dashboard-Power-BI-Project.git) profile! add the content of this certificate in this artical  
