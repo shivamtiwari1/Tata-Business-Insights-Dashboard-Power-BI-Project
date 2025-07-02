@@ -1,8 +1,8 @@
-📊 **Tata Business Insights Dashboard | Power BI Project**
-Unlocking Business Insights Through Data Visualization
-Power BI
-Status
-Certification
+📊 <h>Tata Business Insights Dashboard | Power BI Project</h>  
+Unlocking Business Insights Through Data Visualization  
+Power BI  
+Status  
+Certification  
 
 
 🚀 Project Overview
